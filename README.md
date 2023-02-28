@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Set Up project React Rails</b></h3>
+  <h3><b>Set Up project  Rails</b></h3>
 
 </div>
 
@@ -30,7 +30,7 @@
 
 # 📖 [React Rails] <a name="about-project"></a>
 
-**[React Rails]** 
+**[Rails]** 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -75,7 +75,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-https://github.com/luccamicale/rails-react-capstone-setup/pull/1
+https://github.com/luccamicale/Hello-rails-back-end
 
 ### Installation
   cd my-project
