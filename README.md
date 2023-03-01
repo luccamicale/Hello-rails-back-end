@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Set Up project  Rails</b></h3>
+  <h3><b>Set Up project  Ruby on rails</b></h3>
 
 </div>
 
@@ -32,7 +32,7 @@
 
 **[Rails]** 
 
-## APP REACT FRON END : https://github.com/luccamicale/Hello-rails-back-end/pull/1
+## APP REACT FRON END : https://github.com/luccamicale/hello-react-frontend/pull/1
 
 ## 🛠 Built With <a name="built-with"></a>
 
