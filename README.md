@@ -32,7 +32,7 @@
 
 **[Rails]** 
 
-## APP REACT FRON END : https://github.com/luccamicale/Hello-rails-back-end/pull/1
+## APP REACT FRON END : https://github.com/luccamicale/hello-react-frontend/pull/1
 
 ## 🛠 Built With <a name="built-with"></a>
 
