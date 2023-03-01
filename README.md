@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Set Up project  Rails</b></h3>
+  <h3><b>Set Up project  Ruby on rails</b></h3>
 
 </div>
 
